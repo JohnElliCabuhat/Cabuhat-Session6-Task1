@@ -1,4 +1,4 @@
-# # Cabuhat-Session4-Task1
+# # Cabuhat-Session6-Task1
 Files for Geco Asia Upskill Training Program (Session 6 - Task 1)
 # Features
  - Using webpack bundling
